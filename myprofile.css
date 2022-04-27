@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ca {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #4b6cc1;
+    font-family: "Roboto";
+}
+
+.portfolio-bg {
+    background-color: #191a1d;
+}
+
+.hey-jenny-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    color: white;
+}
+
+.jenny-span {
+    font-family: "Roboto";
+    font-size: 32px;
+    color: #4b6cc1;
+}
+
+.portfolio-banner-para {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #9aa5b1;
+}
+
+.Contactme-button {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: white;
+    height: 38px;
+    width: 130px;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #4b6cc1;
+}
+
+.jenny-image {
+    height: 230px;
+    width: 230px;
+}
+
+.portfolio-about-me-bg {
+    background-color: #323f4b;
+}
+
+.facts-heading {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #cced00;
+    font-weight: bold;
+}
+
+.about-me-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+
+.about-me-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #9aa5b1;
+}
+
+.skills-bg {
+    background-color: #1f2933;
+}
+
+.skills-card {
+    border-radius: 10px;
+    background-color: #323f4b;
+    height: 110px;
+    width: 120px;
+    margin-top: 12px;
+}
+
+.html-img {
+    height: 50px;
+    width: 50px;
+}
+
+.html-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.portfolio-projects-bg {
+    background-color: #3e4c59;
+}
+
+.portfolio-yellow-heading {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #cced00;
+}
+
+.projects-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+}
+
+.project-card {
+    background-color: #323f4b;
+    border-radius: 20px;
+
+}
+
+.web-design-heading {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #9aa5b1;
+}
+
+.card-royal-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: white;
+}
+
+.card-royal-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #9aa5b1;
+}
+
+.read-more-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #cced00;
+}
+
+.portfolio-services-bg {
+    background-color: #52606d;
+}
+
+.portfolio-services-yellow-heading {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #cced00;
+}
+
+.services-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+}
+
+.services-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.small-services-image {
+    height: 50px;
+    width: 50px;
+}
+
+.card-services-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: white;
+}
+
+.card-services-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #9aa5b1;
+}
+
+.portfolio-work-done-section-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    height: 50vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.numbers-h {
+    font-family: "Roboto";
+    font-size: 34px;
+    color: white;
+    font-weight: bold;
+}
+
+.completed-heading {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: white;
+}
+
+.portfolio-testimonials-bg {
+    background-color: #1f2933;
+
+}
+
+.testimonials-heading {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #cced00;
+    font-weight: bold;
+}
+
+.our-members-says-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+
+.members-card {
+    background-color: #323f4b;
+}
+
+.member-image {
+    height: 80px;
+    width: 80px;
+    border-radius: 30px;
+}
+
+.member-card-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #9aa5b1;
+}
+
+.founder-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: white;
+}
+
+.portfolio-footer-bg {
+    background-color: #0d2436;
+}
+
+.footer-jenny-img {
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+}
+
+.footer-title {
+    font-family: "Roboto";
+    font-size: 24px;
+    color: #cced00;
+    font-weight: bold;
+}
+
+.footer-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #9aa5b1;
+}
+
+.envilop {
+    color: #9aa5b1;
+    margin-top: 6px;
+}
+
+.Created-by {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #5a7184;
+}
+
+.copycat {
+    color: #5a7184;
+    margin-top: 4px;
+}
+
+.Created-by-card {
+    background-color: #001c32;
+    background-size: cover;
+}
